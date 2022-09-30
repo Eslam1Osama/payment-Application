@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1661370341 source:c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\main.c
+	<stdio.h>
+	"Application\app.c"
+
+1661516703 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\application\app.h
+	"../Server/server.h"
+
+1661368448 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\terminal\terminal.h
+	"../Card/card.h"
+
+1661387319 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\card\card.h
+
+1661380331 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\server\server.h
+	"../Terminal/terminal.h"
+
+1661527570 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"app.h"
+	"../Server/server.c"
+
+1661527570 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\server\server.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"server.h"
+	"../Terminal/terminal.c"
+
+1661468999 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\terminal\terminal.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"Terminal.h"
+	"../Card/card.c"
+
+1661519077 c:\users\eslam\desktop\1st year 5nd year\content\fwd 1st project c programming\payment_application_eslam_osama\card\card.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"card.h"
+
